@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/wordrun/static/css/main.073c9b0a.css",
-    "main.js": "/wordrun/static/js/main.dd6df011.js",
+    "main.css": "/wordrun/static/css/main.a0ad367d.css",
+    "main.js": "/wordrun/static/js/main.9ee51d23.js",
     "static/js/787.fbdd12f8.chunk.js": "/wordrun/static/js/787.fbdd12f8.chunk.js",
-    "static/media/logo.svg": "/wordrun/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wordrun/index.html",
-    "main.073c9b0a.css.map": "/wordrun/static/css/main.073c9b0a.css.map",
-    "main.dd6df011.js.map": "/wordrun/static/js/main.dd6df011.js.map",
+    "main.a0ad367d.css.map": "/wordrun/static/css/main.a0ad367d.css.map",
+    "main.9ee51d23.js.map": "/wordrun/static/js/main.9ee51d23.js.map",
     "787.fbdd12f8.chunk.js.map": "/wordrun/static/js/787.fbdd12f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dd6df011.js"
+    "static/css/main.a0ad367d.css",
+    "static/js/main.9ee51d23.js"
   ]
 }
